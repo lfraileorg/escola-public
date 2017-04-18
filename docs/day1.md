@@ -2,8 +2,9 @@
 
 ### What we did in class today:
 - We worked in the class repository together.
-- We talked about GitHub Flow
-- You commented on a designated issue with the topic of your slide deck. (You were added as a collaborator based on this comment using the GitHub API! :tada:)
+- We talked about [GitHub Flow](https://guides.github.com/introduction/flow/)
+- You commented on a designated issue with the topic of your slide deck. This issue had instructions for how to complete the activity.
+- You cloned the repository locally, and [got the site set up to build locally](https://github.com/githubtraining/caption-this#instructions-local-setup).
 - You completed the steps of the GitHub Flow to create the first page of the slide deck.
   - Creating a branch
   - Making (a) commit(s)
