@@ -18,9 +18,9 @@
 
 #### Resolve the rest of the merge conflicts
 - We've set up some open pull requests with merge conflicts for you :open_mouth:
-  - _Every person_ has their own repository. Each person should fix the merge conflicts in their own repo.
+  - _Every person_ has their own repository. Each person should fix the merge conflicts in their own repo. It wil be called `github.com/githubschool/conflict-practice-username`, with username being your actual username.
   - We won't make you turn in your homework, but we will run a script to see if the activities are completed later. :wink:
-- Work o resolve the merge conflicts in the conflicts repository.
+- Work to resolve the merge conflicts in the conflicts repository.
   - Don't remember the steps from class? No worries. As a general rule of thumb, here is a starting point:
   - Working locally, merge `master` into the feature branch.
   - When you see there's a conflict, that's OK! Type `git status` to verify which file has the conflict.
