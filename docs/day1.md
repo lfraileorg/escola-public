@@ -8,15 +8,15 @@
   - See what an issue is like, disuss what issues are used for.
   - Behind the scenes, we use this comment to add you as a collaborator.
   - We also create a document for you to work on later.
-- Cloned the repository locally, and [get the site set up to build locally](https://github.com/githubtraining/caption-this#instructions-local-setup).
+- Clone the repository locally, and [get the site set up to build locally](https://github.com/githubtraining/caption-this#instructions-local-setup).
 - Together, practice GitHub flow to change your page of the slide deck and add a caption.
   - Creating a branch.
   - Making (a) commit(s).
-- Created a pull request.
+- Create a pull request.
 
 ### After Class Activities:
 
-#### 1. Complete a code review of someone else's another's slide file.
+#### 1. Complete a code review of someone else's slide file.
   - Since you're partnered, and everyone wants a review, both you and your partner should complete a review of different pull requests.
   - Find an open pull request with no review in the class repository
   - Leave a review of the changes within the pull request (Not sure how? [Click here](https://help.github.com/articles/about-pull-request-reviews/) for more information.)
