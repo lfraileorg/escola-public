@@ -11,7 +11,7 @@
 
 ### After Class Activities:
 
-If possible, try to meet with one or more people from your class. (We can help you partner up if you'd like!) Discuss what you have learned and how it will impact their workflows. If you can't find someone to partner with sychronously, set up an async conversation. Spend some time writing reflections on the same points, and post them in an issue in the class repository. 
+If possible, try to meet with one or more people from your class. (We can help you partner up if you'd like!) Discuss what you have learned and how it will impact your workflows. If you can't find someone to partner with sychronously, set up an async conversation. Spend some time writing reflections on the same points, and post them in an issue in the class repository. 
 
 Not sure where to start? Here are some conversation seeds to plant:
 - What is a branch, really?
