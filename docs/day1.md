@@ -1,6 +1,6 @@
 # Day 1: Getting Started with GitHub Flow
 
-### In class today:
+### In Class Activities:
 - Work in the class repository together, a slide deck of images and captions.
 - Talk about [GitHub Flow](https://guides.github.com/introduction/flow/).
 - Take a brief tour of what a GitHub repository looks like.
@@ -14,8 +14,7 @@
   - Making (a) commit(s).
 - Created a pull request.
 
-### Day 1 Post-Class Activity
-
+### After Class Activities:
 
 #### 1. Complete a code review of someone else's another's slide file.
   - Since you're partnered, and everyone wants a review, both you and your partner should complete a review of different pull requests.
