@@ -22,6 +22,6 @@
   - Leave a review of the changes within the pull request (Not sure how? [Click here](https://help.github.com/articles/about-pull-request-reviews/) for more information.)
 
 #### 2. Pick another open issue to work on together. These tasks could be creating more slides, adding a new layout, or adding tests.
-  - In the class repository, there are several open issues. Each issue lists a different task you can complete to improve the class repository. 
+  - In the class repository, there are several open issues. You can find them by looking at the Project page or in the Issues tab. Each issue lists a different task you can complete to improve the class repository. 
   - Pick an issue, and follow the instructions linked within it. 
   - Regardless of which issue you choose, you will practice the GitHub flow again on your own and create a new pull request.
