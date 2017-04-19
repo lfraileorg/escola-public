@@ -5,8 +5,8 @@
   - Just like the merge conflict repository, everyone has their own repository, and we will run scripts against it to track your progress. (Don't you love automation? :robot:)
 - More advanced Git problems and solutions including (but not limited to :wink:):
   - GitHub Flow
-  - Atomic commits
-  - `git revert` and changing history
+  - Atomic commits with `git add-p`
+  - `git bisect`, `git revert` and changing history
   - `git log` and aliases
 
 ### After Class Activities:
@@ -21,3 +21,11 @@ Not sure where to start? Here are some conversation seeds to plant:
 - What happens when you create a branch?
 - What happens when you are done with a branch?
 - What is an example of a perfect pull request?
+- Which branching strategy will we use?
+- Which branch will serve as our "master" or deployed code?
+- Will we use naming conventions for our branches?
+- How will we use labels and assignees?
+- Will we use milestones? Projects?
+- Will we have required elements of Issues or Pull Requests (e.g. shipping checklists)?
+- How will we indicate sign-off on Pull Requests?
+- Who will merge pull requests?
