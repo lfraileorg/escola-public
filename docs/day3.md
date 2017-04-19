@@ -1,17 +1,19 @@
 # Day 3: `github-games`
 
-### What we did in class today:
-- We worked on another, third repository.
+### In Class Activities:
+- Worked on another, third repository.
   - Just like the merge conflict repository, everyone has their own repository, and we will run scripts against it to track your progress. (Don't you love automation? :robot:)
-- We worked through more advanced Git problems and solutions including (but not limited to :wink:)
+- More advanced Git problems and solutions including (but not limited to :wink:):
   - GitHub Flow
   - Atomic commits
   - `git revert` and changing history
   - `git log` and aliases
 
-### Day 3 Partner Activity
+### After Class Activities:
 
-Instead of working with one partner, you'll work in a small group. Discuss what you have learned and how it will impact their workflows. Not sure where to start? Here are some conversation seeds to plant:
+If possible, try to meet with one or more people from your class. (We can help you partner up if you'd like!) Discuss what you have learned and how it will impact their workflows. If you can't find someone to partner with sychronously, set up an async conversation. Spend some time writing reflections on the same points, and post them in an issue in the class repository. 
+
+Not sure where to start? Here are some conversation seeds to plant:
 - What is a branch, really?
 - How is branching cheap?
 - What is master?
