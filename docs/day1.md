@@ -1,21 +1,20 @@
 # Day 1: Getting Started with GitHub Flow
 
-### What we did in class today:
-- We worked in the class repository together.
-- We talked about [GitHub Flow](https://guides.github.com/introduction/flow/)
-- You commented on a designated issue with the topic of your slide deck. This issue had instructions for how to complete the activity.
-- You cloned the repository locally, and [got the site set up to build locally](https://github.com/githubtraining/caption-this#instructions-local-setup).
-- You completed the steps of the GitHub Flow to create the first page of the slide deck.
-  - Creating a branch
-  - Making (a) commit(s)
-- You created a pull request.
+### In class today:
+- Work in the class repository together, a slide deck of images and captions.
+- Talk about [GitHub Flow](https://guides.github.com/introduction/flow/).
+- Take a brief tour of what a GitHub repository looks like.
+- Comment on an issue.
+  - See what an issue is like, disuss what issues are used for.
+  - Behind the scenes, we use this comment to add you as a collaborator.
+  - We also create a document for you to work on later.
+- Cloned the repository locally, and [get the site set up to build locally](https://github.com/githubtraining/caption-this#instructions-local-setup).
+- Together, practice GitHub flow to change your page of the slide deck and add a caption.
+  - Creating a branch.
+  - Making (a) commit(s).
+- Created a pull request.
 
-### Day 1 Partner Activity
-
-#### Hello, Partner!
-Your partner for today will be working with you through these activities. Maybe you know them already, or maybe you get to meet someone new! :wave: :octocat:
-  - _Description of how partners are assigned_
-  - _Description of how partners interaction is structured. Is this in zoom? Is it timeboxed? What if their partner is unavailable?_
+### Day 1 Post-Class Activity
 
 
 #### 1. Complete a code review of someone else's another's slide file.
@@ -23,7 +22,7 @@ Your partner for today will be working with you through these activities. Maybe 
   - Find an open pull request with no review in the class repository
   - Leave a review of the changes within the pull request (Not sure how? [Click here](https://help.github.com/articles/about-pull-request-reviews/) for more information.)
 
-#### 2. With your partner, pick another open issue to work on together. These tasks could be creating more slides, adding a new layout, or adding tests.
-  - Together, go through the steps of the GitHub flow as pair programmers.
-  - We recommend one person 'driving', who shares their screen and controls the activity. The other partner watches, asks questions, and engages as the driver explains their actions out loud.
-  - GitHub is meant to be collaborative! This means, if one person wants to create the branch and the other person wants to make a commit on the same branch, that's OK!
+#### 2. Pick another open issue to work on together. These tasks could be creating more slides, adding a new layout, or adding tests.
+  - In the class repository, there are several open issues. Each issue lists a different task you can complete to improve the class repository. 
+  - Pick an issue, and follow the instructions linked within it. 
+  - Regardless of which issue you choose, you will practice the GitHub flow again on your own and create a new pull request.
