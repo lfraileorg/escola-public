@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Now, 2017
+- Class Date: Today, 2017
 - Facilitators:
   - @crichID :microphone:
   - @ :speech_balloon:
@@ -11,7 +11,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: https://goo.gl/vkcG2S.
+Please take a moment to complete the class survey at: https://goo.gl/eU7UCG.
 
 ## Scripts for Adding Files
 
