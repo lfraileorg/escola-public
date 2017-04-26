@@ -1,44 +1,40 @@
-### Instructions: Local Setup
+# GitHub for Developers
 
-1. Clone this repository to your machine with `git clone <URL>`.
-1. Execute `script/setup` from your command line. This ensures all the right dependencies are installed.
-1. Execute `script/server` from your command line. This spins up a local instance of the project.
-1. You can view the local instance by navigating to http://localhost:4000/
+- Class Date: THIS-DATE
+- Facilitator: @TEACHER-HANDLE
 
-### Instructions: Add a Caption to an Existing Slide
+## Talk to Us!!
 
-1. Ensure you have the most up-to-date copy of the project by running `git pull`.
-1. Create a new branch with `git branch <UNIQUE-BRANCH-NAME>`.
-1. Check out to your new branch with `git checkout <UNIQUE-BRANCH-NAME>`.
-1. Open the slide you'd like to update from within the `_posts` folder. Use your favorite text editor.
-1. Use [Markdown](https://guides.github.com/features/mastering-markdown/) to add your image and caption. An example is shown below. Save your file.
-        ---
-        layout: slide
-        title: "YOUR-CAPTION-HERE"
-        ---
+If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
 
-        ![](YOUR-IMAGE-URL-HERE)
-1. Test your addition by [running locally](#instructions-local-setup) and refreshing http://localhost:4000/.
-1. Stage your changes with `git add <FILE-NAME>`.
-1. Commit your changes with `git commit -m "YOUR-COMMIT-MESSAGE"`.
-1. Push your changes up to GitHub with `git push -u origin UNIQUE-BRANCH-NAME`.
+## Give Us Feedback
 
-### Instructions: Add a New Slide
+Please take a moment to complete the class survey at: SURVEY-LINK.
 
-1. Ensure you have the most up-to-date copy of the project by running `git pull`.
-1. Create a new branch with `git branch <UNIQUE-BRANCH-NAME>`.
-1. Check out to your new branch with `git checkout <UNIQUE-BRANCH-NAME>`.
-1. Save a new Markdown file in the `_posts` folder, with the naming convention: `####-##-##-title.md`, where the hashes indicate the position of the new slide in the deck.
-1. Populate the slide with the template below and save.
+## Scripts for Adding Files
 
-        ---
-        layout: slide
-        title: "YOUR-CAPTION-HERE"
-        ---
+- **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
+- **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
 
-        ![](YOUR-IMAGE-URL-HERE)
+## Resources
 
-1. Test your addition [running locally](#instructions-local-setup) and refreshing http://localhost:4000/.
-1. Stage your changes with `git add <FILE-NAME>`.
-1. Commit your changes with `git commit -m "YOUR-COMMIT-MESSAGE"`.
-1. Push your changes up to GitHub with `git push -u origin UNIQUE-BRANCH-NAME`.
+- [GitHub for Developers Manual](https://github.github.io/training-manual/)
+- [Git Cheat Sheets](https://services.github.com/resources/)
+- [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
+- [git-scm](https://git-scm.com)
+- [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+
+### Class Images
+- [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
+- [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
+- [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
+
+### What's Next?
+
+After you have completed this course, you are probably wondering where to go from here:
+
+- [GitHub's On Demand Training](https://services.github.com/on-demand/)
+- [Recommended Path for Learning More](https://services.github.com/on-demand/path/)
+- [A Curated List of our Favorite Resources](https://services.github.com/classnotes/)
