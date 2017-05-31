@@ -18,7 +18,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 
 ## Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/GH4D/index)
 - [Git Cheat Sheets](https://services.github.com/resources/cheatsheets/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
