@@ -17,9 +17,9 @@ gems:
   - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
-author:      Thomas Friese
-description: Reveal.js for Jekyll with Solarized Color theme
+title:       caption-this
+author:      GitHubTeacher
+description: A fun activity for learning Git and GitHub.
 
 sass:
   style:     :compressed
