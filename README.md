@@ -37,4 +37,4 @@ After you have completed this course, you are probably wondering where to go fro
 
 - [GitHub's On Demand Training](https://services.github.com/on-demand/)
 - [Recommended Path for Learning More](https://services.github.com/on-demand/resources/learning-path/)
-- [A Curated List of our Favorite Resources](https://services.github.com/classnotes/)
+- [A Curated List of our Favorite Resources](https://services.github.com/on-demand/resources/)
