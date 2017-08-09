@@ -4,7 +4,7 @@ red=$'\e[1;31m'
 grn=$'\e[1;32m'
 end=$'\e[0m'
 
-account='githubtraining'
+account='training-staging'
 
 if [ "$1" = "" ]
 then
