@@ -19,7 +19,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 ## Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/GH4D/index)
-- [Git Cheat Sheets](https://services.github.com/resources/cheatsheets/)
+- [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
 - [git-scm](https://git-scm.com)
@@ -36,5 +36,5 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 After you have completed this course, you are probably wondering where to go from here:
 
 - [GitHub's On Demand Training](https://services.github.com/on-demand/)
-- [Recommended Path for Learning More](https://services.github.com/on-demand/path/)
-- [A Curated List of our Favorite Resources](https://services.github.com/classnotes/)
+- [Recommended Path for Learning More](https://services.github.com/on-demand/resources/learning-path/)
+- [A Curated List of our Favorite Resources](https://services.github.com/on-demand/resources/)
