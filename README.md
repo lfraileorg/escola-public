@@ -14,11 +14,11 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 ## Scripts for Adding Files
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
-- **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
+- **PowerShell:** `for ($d=1; $d -le 6;$d++) { Out-File file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://github.github.io/training-manual/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 
