@@ -1,11 +1,11 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Facilitator: @TEACHER-HANDLE :microphone:
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
+If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
 
 ## Give Us Feedback
 
@@ -14,24 +14,22 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 ## Scripts for Adding Files
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
-- **PowerShell:** `for ($d=1; $d -le 6;$d++) { Out-File file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
+- **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
-
-### Extended Resources 
+### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
   <summary>More helpful links including videos, cheat sheets, and visualization tools
 </summary>
   
 #### Git
-- [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
+- [Git Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [git-scm](https://git-scm.com)
-- [Git Out of Trouble](https://services.github.com/on-demand/git-trouble/)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 
@@ -54,6 +52,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 - [GitHub and Xcode](https://resources.github.com/webcasts/GitHub-and-Xcode/)
 - [GitHub and Eclipse](https://resources.github.com/webcasts/GitHub-and-Eclipse/)
 - [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
+- [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
 #### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
@@ -68,6 +67,5 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 
 After you have completed this course, you are probably wondering where to go from here:
 
-- [GitHub Learning Lab](https://lab.github.com/)
-- [Recommended Path for Learning More](https://services.github.com/on-demand/resources/learning-path/)
-- [A Curated List of our Favorite Resources](https://services.github.com/on-demand/resources/)
+- [GitHub Learning Lab](https://lab.github.com/): self paced courses with instant bot-assisted feedback. 
+- [Join the open source community](https://github.com/open-source)
