@@ -38,6 +38,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 
 - [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 - [Git Viz](https://peleke.github.io/git-viz/)
 - [Git Graph Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
