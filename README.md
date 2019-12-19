@@ -29,16 +29,19 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 
 #### Git
 - [Git Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
 - [git-scm](https://git-scm.com)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 
 #### Review materials & visualization
+
 - [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
 #### GitHub Documentation and Help
+
 - [GitHub Webcasts](https://resources.github.com/webcasts/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
 - [GitHub Help Documentation](https://help.github.com/)
@@ -46,6 +49,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 - [Enterprise Support](https://enterprise.github.com/support)
 
 #### Git and IDEs Webcasts
+
 - [GitHub and Visual Studio](https://resources.github.com/webcasts/GitHub-and-Visual-Studio/)
 - [GitHub and IntelliJ IDEs](https://resources.github.com/webcasts/GitHub-and-Intellij-IDEs/)
 - [GitHub and Atom.io](https://resources.github.com/webcasts/GitHub-and-Atom/)
@@ -55,6 +59,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 - [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
 #### Class Images
+
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
