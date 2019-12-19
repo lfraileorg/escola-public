@@ -64,9 +64,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
 
-
 </details>
-
 
 ### What's Next?
 
