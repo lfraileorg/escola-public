@@ -44,7 +44,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 - [GitHub Webcasts](https://resources.github.com/webcasts/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
 - [GitHub Help Documentation](https://help.github.com/)
-- [GitHub Enterprise Documentation](https://help.github.com/enterprise/2.12/)
+- [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
 - [Enterprise Support](https://enterprise.github.com/support)
 
 #### Git and IDEs Webcasts
