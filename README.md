@@ -24,8 +24,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
-  <summary>More helpful links including videos, cheat sheets, and visualization tools
-</summary>
+<summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 
 #### Git
 - [Git Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
