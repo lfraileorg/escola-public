@@ -58,12 +58,6 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 - [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
 - [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
-#### Class Images
-
-- [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
-- [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
-- [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
-
 </details>
 
 ### What's Next?
