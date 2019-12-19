@@ -26,7 +26,7 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 <details>
   <summary>More helpful links including videos, cheat sheets, and visualization tools
 </summary>
-  
+
 #### Git
 - [Git Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [git-scm](https://git-scm.com)
@@ -67,5 +67,5 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 
 After you have completed this course, you are probably wondering where to go from here:
 
-- [GitHub Learning Lab](https://lab.github.com/): self paced courses with instant bot-assisted feedback. 
+- [GitHub Learning Lab](https://lab.github.com/): self paced courses with instant bot-assisted feedback.
 - [Join the open source community](https://github.com/open-source)
