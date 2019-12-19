@@ -27,8 +27,8 @@ Please take a moment to complete the class survey at: SURVEY-LINK.
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 
 #### Git
-- [Git Cheat Sheets](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
+- [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [git-scm](https://git-scm.com)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
