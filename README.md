@@ -33,6 +33,7 @@ Please take a moment to complete the class survey at: <https://www.surveymonkey.
 - [git-scm](https://git-scm.com)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
+- [Visuals of Helpful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 
 #### Review materials & visualization
 
