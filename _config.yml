@@ -37,6 +37,10 @@ slideNumber:
   # "none":  dont't show slide numbers
   format:    "c/t"
 
+collections:
+  slides:
+    output: true
+
 ## Reveal.initialize
 ## At the end of your page Jekyll initializes reveal by running the following code. Note that all config values are optional and will default as specified below.
 ## Note that the new default vertical centering option will break compatibility with slides that were using transitions with backgrounds ("cube" and "page"). To restore the previous behavior, set "center" to "false".
