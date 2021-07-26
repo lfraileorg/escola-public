@@ -3,19 +3,6 @@
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
 
-## Talk to Us!!
-
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
-
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: SURVEY-LINK
-
-## Scripts for Adding Files
-
-- **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
-- **PowerShell:** `for ($d=1; $d -le 6; $d++) { Out-File file$d.md; git add file$d.md; git commit -m "adding file$d.md"; }`
-
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
@@ -68,5 +55,5 @@ Please take a moment to complete the class survey at: SURVEY-LINK
 
 After you have completed this course, you are probably wondering where to go from here:
 
-- [GitHub Learning Lab](https://lab.github.com/): self paced courses with instant bot-assisted feedback.
+- [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Join the open source community](https://github.com/open-source)
