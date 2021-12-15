@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome"
 ---
 
-Hi there Pedro Tomás Ibanez here
+Hi there Pedro Tomás Ibañez here
